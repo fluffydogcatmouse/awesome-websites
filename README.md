@@ -2,78 +2,25 @@
 
 A curated collection of amazing websites organized by category to help you discover treasures across the internet.
 
-## 🧭 Table of Contents
+## 🧭 Categories
 
-- [🎨 Design & Creative](#design--creative)
-- [🔧 Utilities](#utilities)
-- [📚 Learning Resources](#learning-resources)
-- [💻 Developer Tools](#developer-tools)
-- [🎮 Entertainment](#entertainment)
-- [🎲 Games](#games)
-- [🤖 AI Tools](#ai-tools)
-- [📊 Data Visualization](#data-visualization)
-- [🌐 Web Archives](#web-archives)
-- [🔍 Search Engines](#search-engines)
-- [🎵 Music & Audio](#music--audio)
-- [🎬 Video & Film](#video--film)
-- [📰 News & Reading](#news--reading)
-- [🧪 Science & Knowledge](#science--knowledge)
-- [🌏 Travel & Geography](#travel--geography)
-- [🛒 Shopping & Consumer](#shopping--consumer)
-- [🏋️ Health & Lifestyle](#health--lifestyle)
-
-## Categories
-
-### Design & Creative
-View all [Design & Creative websites](categories/design-creative.md)
-
-### Utilities
-View all [Utility websites](categories/utilities.md)
-
-### Learning Resources
-View all [Learning Resource websites](categories/learning.md)
-
-### Developer Tools
-View all [Developer Tool websites](categories/dev-tools.md)
-
-### Entertainment
-View all [Entertainment websites](categories/entertainment.md)
-
-### Games
-View all [Game websites](categories/games.md)
-
-### AI Tools
-View all [AI Tool websites](categories/ai-tools.md)
-
-### Data Visualization
-View all [Data Visualization websites](categories/data-viz.md)
-
-### Web Archives
-View all [Web Archive websites](categories/web-archives.md)
-
-### Search Engines
-View all [Search Engine websites](categories/search-engines.md)
-
-### Music & Audio
-View all [Music & Audio websites](categories/music-audio.md)
-
-### Video & Film
-View all [Video & Film websites](categories/video.md)
-
-### News & Reading
-View all [News & Reading websites](categories/news-reading.md)
-
-### Science & Knowledge
-View all [Science & Knowledge websites](categories/science.md)
-
-### Travel & Geography
-View all [Travel & Geography websites](categories/travel-geography.md)
-
-### Shopping & Consumer
-View all [Shopping & Consumer websites](categories/shopping.md)
-
-### Health & Lifestyle
-View all [Health & Lifestyle websites](categories/health-lifestyle.md)
+- [🎨 Design & Creative](categories/design-creative.md)
+- [🔧 Utilities](categories/utilities.md)
+- [📚 Learning Resources](categories/learning.md)
+- [💻 Developer Tools](categories/dev-tools.md)
+- [🎮 Entertainment](categories/entertainment.md)
+- [🎲 Games](categories/games.md)
+- [🤖 AI Tools](categories/ai-tools.md)
+- [📊 Data Visualization](categories/data-viz.md)
+- [🌐 Web Archives](categories/web-archives.md)
+- [🔍 Search Engines](categories/search-engines.md)
+- [🎵 Music & Audio](categories/music-audio.md)
+- [🎬 Video & Film](categories/video.md)
+- [📰 News & Reading](categories/news-reading.md)
+- [🧪 Science & Knowledge](categories/science.md)
+- [🌏 Travel & Geography](categories/travel-geography.md)
+- [🛒 Shopping & Consumer](categories/shopping.md)
+- [🏋️ Health & Lifestyle](categories/health-lifestyle.md)
 
 ## Contributing
 
